@@ -1,6 +1,5 @@
 from random import choices
 
-
 def unordered_sequence(max_len=100):
     """
     Returns list of unordered ints from within a range between -1000 and 1000.
